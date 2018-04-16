@@ -28,7 +28,7 @@ void print_array(int *arr, int size)
 
 int main()
 {
-    int arr[7] = {3, 1, 4, 1, 5, 9, 2};
+    int arr[7] = {3, 1, 8, 1, 5, 9, 2};
 
     const int min = min_element(arr, 7);
 
